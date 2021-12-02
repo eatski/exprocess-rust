@@ -33,7 +33,7 @@ The front-end is designed so that the roles are only visible to the assigned par
 ## Let's take a look at the code.
 Now that I've explained it, you should be able to see it in the code.  
 The following is a list of some of the key points.
-- [Core Logic](/src/domain/state.rs)
-- [Use Runner](/src/containers/main.rs)
+- [Core Logic](https://github.com/itskihaga/exprocess-rust-sample/blob/purge-exprocess/src/domain/state.rs)
+- [Use Runner](https://github.com/itskihaga/exprocess-rust-sample/blob/purge-exprocess/src/containers/main.rs)
 
 
